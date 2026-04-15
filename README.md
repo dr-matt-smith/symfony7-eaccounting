@@ -1,1 +1,1 @@
-# symfony7-eaccounting
+# 2024-crud-starter-project-for-web-frameworks
